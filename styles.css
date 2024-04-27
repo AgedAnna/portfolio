@@ -32,13 +32,13 @@ body {
 }
 
 .dark {
-  --clr-bg: #32233e;
-  --clr-bg-alt: #462a4c;
-  --clr-fg: #ddbddd;
-  --clr-fg-alt: #ffcdf8;
-  --clr-primary: #cd90d9;
-  --shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
-    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  --clr-bg: #000000;
+  --clr-bg-alt: #7d0099;
+  --clr-fg: #ffffff;
+  --clr-fg-alt: #ffffff;
+  --clr-primary: #ffffff;
+  --shadow: rgba(176, 0, 192, 0.527) 0px 10px 36px 0px,
+    rgba(225, 0, 255, 0) 0px 0px 0px 1px;
 }
 
 ::-moz-selection {
